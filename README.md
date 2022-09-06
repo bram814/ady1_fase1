@@ -2,9 +2,7 @@
 
 El desarrollo del proyecto será estructurado por la metodología Scrum, con la finalidad de utilizar iteraciones de dos semanas o hasta un mes, cada iteración proporciona un resultado completo, es decir, un incremento de producto que sea potencialmente entregable, de manera que cuando el cliente (Product Owner) lo solicite sólo sea necesario un esfuerzo mínimo para que el producto esté disponible y ser utilizado.
 
-Cada reunión que se realice diariamente de Sprint, permite que el equipo pueda discutir los resultados, así discutir aspectos de mejora, por cada iteración el equipo colabora estrechamente y se llevan a cabo las siguiente dinámica.
-
-- Cada equipo debe de realizar una reunión de sincronización, dónde cada miembro debe inspeccionar el trabajo de los otros para hacer las adaptaciones necesarias, además debe de notificar los impedimentos que se llegarán a encontrar; actualizar el estado de la lista de tareas de la iteración (Sprint Backlog) si es necesario.
+Cada reunión que se realice diariamente de Sprint, permite que el equipo pueda discutir los resultados, así discutir aspectos de mejora, por cada iteración el equipo colabora estrechamente, cada equipo debe de realizar una reunión de sincronización, dónde cada miembro debe inspeccionar el trabajo de los otros para hacer las adaptaciones necesarias, además debe de notificar los impedimentos que se llegarán a encontrar; actualizar el estado de la lista de tareas de la iteración (Sprint Backlog) si es necesario.
 
 ### Procesos de Scrum
 
